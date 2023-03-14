@@ -1,0 +1,8 @@
+hw:
+marks: 80
+remarks: was instructed not to use any machine learning model, 
+but a regression model has been used 
+
+
+lab:
+marks: 100
